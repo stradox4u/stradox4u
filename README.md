@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Umar Odeh Adejoh
 - 👀 I’m interested in Laravel PHP, Vue JS, Inertia JS, Tailwind CSS and Bootstrap
-- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on Laravel and Vue Projects
 - 📫 How to reach me umar@arcodeh.pro
 
