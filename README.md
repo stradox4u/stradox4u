@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Umar Odeh Adejoh
-- 👀 I’m interested in Vue JS, Node JS, Nest JS React, TypeScript, Inertia JS, Laravel, and Tailwind CSS
-- 💞️ I’m looking to collaborate on TypeScript, Node JS, React and Vue Projects
-- 🎱 I'm currently learning Nest JS.
+- 👀 I’m interested in Vue JS, Node JS, Nest JS, TypeScript, Spring Boot, Laravel, and Tailwind CSS
+- 💞️ I’m looking to collaborate on TypeScript, Node JS, Nest JS, Java and Vue Projects
+- 🎱 I'm currently learning Java Spring Boot.
 - 📫 How to reach me umar@arcodeh.pro
 
 <!---
